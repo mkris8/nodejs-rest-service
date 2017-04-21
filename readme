@@ -1,0 +1,7 @@
+A simple nodejs restful standup service
+=======================================
+Install node js as a pre requisite
+Install nodejs eclipse plugin
+npm init
+$ npm install express
+Run as nodejs application
